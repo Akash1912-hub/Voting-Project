@@ -1,0 +1,4 @@
+npx create-react-app voting-app
+cd voting-app
+npm install react-chartjs-2 chart.js
+npm start

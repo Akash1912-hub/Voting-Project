@@ -1,0 +1,29 @@
+{
+    "candidates": [
+      {
+        "logo": "https://via.placeholder.com/50",
+        "name": "John Doe",
+        "party": "Party A",
+        "description": "Party A is focused on economic growth and sustainable development."
+      },
+      {
+        "logo": "https://via.placeholder.com/50",
+        "name": "Jane Smith",
+        "party": "Party B",
+        "description": "Party B is dedicated to healthcare reform and education."
+      },
+      {
+        "logo": "https://via.placeholder.com/50",
+        "name": "Alice Johnson",
+        "party": "Party C",
+        "description": "Party C aims to improve environmental protection and renewable energy."
+      },
+      {
+        "logo": "https://via.placeholder.com/50",
+        "name": "Bob Brown",
+        "party": "Party D",
+        "description": "Party D focuses on social justice and equal opportunity for all."
+      }
+    ]
+  }
+  
